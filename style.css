@@ -74,6 +74,10 @@ footer
 	font-family: Arial;
 	background: rgba(255,255,255,0.4);
 }
+section:nth-child(3)
+{
+	background: #CA23E3;
+}
 @media only screen and (max-width: 480px)
 {
 	header h1 
